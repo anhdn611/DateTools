@@ -20,16 +20,22 @@
 "%d years ago" = "%d năm trước";
 
 /* No comment provided by engineer. */
-"A minute ago" = "Một phút trước";
+"A minute ago" = "1 phút trước";
 
+"1 minute ago" = "1 phút trước";
 /* No comment provided by engineer. */
-"An hour ago" = "Một giờ trước";
+
+"An hour ago" = "1 giờ trước";
+
+"1 hour ago" = "1 giờ trước";
 
 /* No comment provided by engineer. */
 "Just now" = "Vừa mới đây";
 
 /* No comment provided by engineer. */
 "Last month" = "Tháng trước";
+
+"1 second ago" = "1 giây trước";
 
 /* No comment provided by engineer. */
 "Last week" = "Tuần trước";
